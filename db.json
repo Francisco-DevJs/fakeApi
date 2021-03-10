@@ -1,18 +1,18 @@
-  
-{
+[
   {
-    id:0, todo:"lavar carro", done: false
+  "id": 0,
+  "todo": "lavar carro",
+  "active": true
   },
   {
-    id:1, todo:"enviar cv", done: true
+  "id": 1,
+  "todo": "marcar entrevista",
+  "active": false
   },
   {
-    id:2, todo:"pagar contas", done: false
-  },
-  {
-    id:3, todo:"falar com Cris", done: true
-  },
-  {
-    id:4, todo:"dormir", done: false
-  },
-}
+   "id": 2,
+   "todo": "pagar contas",
+   "active": true
+  }
+
+]
