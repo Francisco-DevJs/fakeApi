@@ -1,20 +1,61 @@
 {
-"todo": [
-  {
-  "id": 0,
-  "todo": "lavar carro",
-  "active": true
+  "pie": {
+    "title": "titulo pizza",
+    "data": [
+      {
+        "x": [
+          12
+        ],
+        "y": [
+          88
+        ]
+      }
+    ],
+    "labels": [
+      "label A",
+      "label B"
+    ]
   },
-  {
-  "id": 1,
-  "todo": "marcar entrevista",
-  "active": false
+  "line": {
+    "title": "titulo line",
+    "data": [
+      {
+        "x": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "y": [
+          433,
+          221,
+          323,
+          555,
+          110
+        ]
+      }
+    ],
+    "labels": [
+      "label A",
+      "label B"
+    ]
   },
-  {
-   "id": 2,
-   "todo": "pagar contas",
-   "active": true
+  "bar": {
+    "title": "titulo bar",
+    "data": [
+      {
+        "x": [
+          "03/21",
+          "04/21",
+          "05/21"
+        ],
+        "y": [
+          12312,
+          66433,
+          22232
+        ]
+      }
+    ]
   }
-
-]
 }
