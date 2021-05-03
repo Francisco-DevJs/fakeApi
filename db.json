@@ -1,5 +1,6 @@
-{
-  "pie": {
+[
+  {
+    "type": "pie",
     "title": "titulo pizza",
     "data": [
       {
@@ -16,7 +17,8 @@
       "label B"
     ]
   },
-  "line": {
+  {
+    "type": "line",
     "title": "titulo line",
     "data": [
       {
@@ -41,7 +43,8 @@
       "label B"
     ]
   },
-  "bar": {
+  {
+    "type": "bar",
     "title": "titulo bar",
     "data": [
       {
@@ -58,4 +61,4 @@
       }
     ]
   }
-}
+]
